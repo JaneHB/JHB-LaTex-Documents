@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: buHarvard.bst
+I found no \bibdata command---while reading file main.aux
+Warning--I didn't find a database entry for "UbuntuSecurity"
+Warning--I didn't find a database entry for "Yin_CS_Design2013"
+Warning--I didn't find a database entry for "Case_Study_Gagnon2010"
+Warning--I didn't find a database entry for "Nissenbaum_2010"
+Warning--I didn't find a database entry for "Yin_Case_studies_and_org_in_1985"
+Warning--I didn't find a database entry for "LegalStatusofPC"
+Warning--I didn't find a database entry for "Chen:1976:EMU:320434.320440"
+Warning--I didn't find a database entry for "Thomson_et_al_2005"
+Warning--I didn't find a database entry for "Fung_et_al_2010"
+Warning--I didn't find a database entry for "Barth2006184"
+You've used 0 entries,
+            2638 wiz_defined-function locations,
+            580 strings with 4838 characters,
+and the built_in function-call counts, 31 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 1
+* -- 2
+:= -- 10
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 1
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 6
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 5
+(There was 1 error message)
